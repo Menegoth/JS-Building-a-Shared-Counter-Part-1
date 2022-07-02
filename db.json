@@ -1,5 +1,6 @@
 {
   "counter": {
-    "value": 10
+    "value": 10,
+    "defaultValue": 10
   }
 }
